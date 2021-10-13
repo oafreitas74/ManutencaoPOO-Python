@@ -1,0 +1,6 @@
+1	Luis	R de cima	Chaves	5400-222	Portugal	Portuguesa	06/02/2000	06/02/2018	968745123	12345678	123456789	Manutenção
+2	Antonio	R de baixo	Chaves	5400-223	Portugal	Portuguesa	06/02/2000	06/02/2018	968745124	12345679	123456790	Manutenção
+3	João	R de baixo	Chaves	5400-224	Portugal	Portuguesa	03/11/1984	06/02/2018	968745125	12345680	123456791	Manutenção
+4	Ana	R de meio	Chaves	5400-225	Portugal	Portuguesa	30/10/1984	06/02/2018	968745126	12345681	123456792	Recepção
+5	Pedro	R da travessa	Chaves	5400-226	Portugal	Portuguesa	11/11/1991	06/02/2018	968745127	12345682	123456793	Recepção
+6	Suzana	R de centro	Chaves	5400-227	Portugal	Portuguesa	22/05/1989	06/02/2018	968745128	12345683	123456794	Recepção

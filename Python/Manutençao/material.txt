@@ -1,0 +1,12 @@
+1	Gu -10	10	Lampada	3	3,9
+2	Gu -04	10	Lampada	2	2,6
+3	Gu -12	10	Lampada	3	3,9
+4	Gu -16	10	Lampada	5	6,5
+5	E - 26	15	Lampada	2	2,6
+6	Torneira	5	Canalizaçao	25	32,5
+7	Suporte	20	Moveis	1,5	1,95
+8	Porta	2	Moveis	60	78
+9	Termoacumulador	2	Canalizaçao	300	390
+10	Resistencia	4	Canalizaçao	25	32,5
+11	Tubo descarga	10	Canalizaçao	4	5,2
+12	Interruptor	8	Electricidade	1,2	1,56

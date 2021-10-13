@@ -1,0 +1,76 @@
+1	79	1	Portas da varanda não trancam	06/01/2019, 16:13:54	06/01/2019, 16:13:54		0,00	6,80	20	Fechado	4
+2	27	2	Montar e retirar router WIFI	06/01/2019, 16:13:54	06/01/2019, 16:13:54		0,00	6,68	20	Fechado	6
+3	29	3	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	6,68	20	Fechado	5
+4	68	2	Ligar pavimento radiante	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	5
+5	77	2	Lâmpadas de emergência fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Lampada	9,00	6,68	20	Fechado	4
+6	58	1	Reparação de 2 projetores da piscina interior	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Torneira	52,00	20,04	60	Fechado	4
+7	16	1	Ligar pavimento radiante	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	6
+8	78	3	Lampadas fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Resistencia	12,00	5,01	15	Fechado	5
+9	78	2	Ligar pavimento radiante	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	6
+10	42	3	Substituir termoacumulador	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Termoacumulador	160,00	40,08	120	Fechado	6
+11	56	1	Reparar termoacumulador	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Resistencia	95,00	20,04	60	Fechado	4
+12	12	2	Candeeiro avariado	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Interruptor	2,50	5,01	15	Fechado	6
+13	60	1	A/C avariado	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	4
+14	23	3	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	6,68	20	Fechado	5
+15	23	3	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	6,68	20	Fechado	4
+16	68	3	Ligar pavimento radiante	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	6
+17	56	1	Verificar infiltraçao da banheira	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	100,20	300	Fechado	5
+18	6	2	Lampadas fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Lampada	4,00	5,01	15	Fechado	5
+19	19	3	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	6,68	20	Fechado	4
+20	22	2	A/C avariado	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	4
+21	30	2	 Blc F3, lâmpadas de emergência fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Lampada	6,00	5,01	15	Fechado	6
+22	16	1	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	5
+23	21	1	Portas da varanda não trancam	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	6
+24	22	3	Lampadas fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Lampada	4,00	5,01	15	Fechado	6
+25	38	2	Substituir termoacumulador	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	40,08	120	Fechado	4
+26	78	3	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	6,68	20	Fechado	6
+27	14	1	Lampadas fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Lampada	4,00	5,01	15	Fechado	4
+28	60	2	A/C avariado	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	5,01	15	Fechado	5
+29	21	1	Não tem agua quente	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	10,02	30	Fechado	4
+30	28	3	Montar e retirar router WIFI	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	6,68	20	Fechado	6
+31	26	3	Sanita entupida	06/02/2019, 16:13:54	06/02/2019, 16:13:54		0,00	10,02	30	Fechado	5
+32	79	3	Lampadas fundidas	06/02/2019, 16:13:54	06/02/2019, 16:13:54	Lampada	6,00	5,01	15	Fechado	5
+33	67	1	Montar e retirar router WIFI	06/03/2019, 16:13:54	06/03/2019, 16:13:54		0,00	6,68	20	Fechado	4
+34	29	2	Problemas electricos	06/03/2019, 16:13:55	06/03/2019, 16:13:55		0,00	10,02	30	Fechado	4
+35	63	3	Fuga no lava-loiça	06/03/2019, 16:13:56	06/03/2019, 16:13:56		0,00	6,68	20	Fechado	6
+36	68	2	Frigorifico avariado	06/03/2019, 16:13:57	06/03/2019, 16:13:57		0,00	5,01	15	Fechado	5
+37	64	2	Sem internet	06/03/2019, 16:13:58	06/03/2019, 16:13:58		0,00	5,01	15	Fechado	6
+38	11	1	Maquina de lavar copos avariada	06/03/2019, 16:13:59	06/03/2019, 16:13:59		0,00	10,02	30	Fechado	6
+39	7	1	Lampadas fundidas	06/03/2019, 16:13:60	06/03/2019, 16:13:60	Lampada	4,00	5,01	15	Fechado	4
+40	66	3	Ligações e montagem da recepção	06/03/2019, 16:13:61	06/03/2019, 16:13:61		0,00	1923,84	5760	Fechado	6
+41	64	2	Lampadas fundidas	06/04/2019, 16:13:54	06/04/2019, 16:13:54	Lampada	4,00	5,01	15	Fechado	4
+42	29	3	A/C avariado	06/04/2019, 16:13:55	06/04/2019, 16:13:55		0,00	10,02	30	Fechado	5
+43	32	1	A/C avariado	06/04/2019, 16:13:56	06/04/2019, 16:13:56		0,00	10,02	30	Fechado	4
+44	15	2	Lampadas fundidas	06/04/2019, 16:13:57	06/04/2019, 16:13:57	Lampada	4,00	5,01	15	Fechado	6
+45	40	1	Candeeiro avariado	06/04/2019, 16:13:58	06/04/2019, 16:13:58	Interruptor	2,50	6,68	20	Fechado	5
+46	30	3	Portas da varanda não trancam	06/04/2019, 16:13:59	06/04/2019, 16:13:59		0,00	5,01	15	Fechado	5
+47	58	3	Ligar pavimento radiante	06/04/2019, 16:13:60	06/04/2019, 16:13:60		0,00	5,01	15	Fechado	4
+48	25	3	Suporte do armortecedor do armario de cozinha partido	06/04/2019, 16:13:61	06/04/2019, 16:13:61	Suporte	1,50	5,01	15	Fechado	4
+49	28	1	Afinar portas do armario de cozinha	06/05/2019, 16:13:54	06/05/2019, 16:13:54		0,00	6,68	20	Fechado	6
+50	74	2	Afinar portas do armario de cozinha	06/05/2019, 16:13:55	06/05/2019, 16:13:55		0,00	10,02	30	Fechado	5
+51	22	3	Fuga no lava-loiça	06/05/2019, 16:13:56	06/05/2019, 16:13:56		0,00	6,68	20	Fechado	6
+52	19	2	Tampas da sanitas soltas	06/05/2019, 16:13:57	06/05/2019, 16:13:57		0,00	10,02	30	Fechado	6
+53	20	2	Portas da varanda não trancam	06/05/2019, 16:13:58	06/05/2019, 16:13:58		0,00	5,01	15	Fechado	4
+54	12	1	Lavatorio entupido	06/05/2019, 16:13:59	06/05/2019, 16:13:59		0,00	10,02	30	Fechado	6
+55	11	1	Portas da varanda não trancam	06/05/2019, 16:13:60	06/05/2019, 16:13:60		0,00	5,01	15	Fechado	4
+56	4	3	Fuga no lava-loiça	06/05/2019, 16:13:61	06/05/2019, 16:13:61		0,00	10,02	30	Fechado	5
+57	55	2	A/C avariado	06/06/2019, 16:13:54	06/06/2019, 16:13:54		0,00	6,68	20	Fechado	4
+58	23	3	A/C avariado	06/06/2019, 16:13:55	06/06/2019, 16:13:55		0,00	20,04	60	Fechado	6
+59	48	1	A/C avariado	06/06/2019, 16:13:56	06/06/2019, 16:13:56		0,00	40,08	120	Fechado	5
+60	25	2	Montar e retirar router WIFI	06/07/2019, 16:13:54	06/07/2019, 16:13:54		0,00	6,68	20	Fechado	5
+61	18	1	Cliente deixou as chaves dentro do #	06/07/2019, 16:13:54	06/07/2019, 16:13:54		0,00	5,01	15	Fechado	4
+62	63	3	Montar e retirar router WIFI	06/08/2019, 16:13:54	06/08/2019, 16:13:54		0,00	6,68	20	Fechado	4
+63	26	3	Montar e retirar router WIFI	06/08/2019, 16:13:54	06/08/2019, 16:13:54		0,00	6,68	20	Fechado	6
+64	23	3	Banheira entupida	06/09/2019, 16:13:54	06/09/2019, 16:13:54		0,00	5,01	15	Fechado	5
+65	18	1	Portas da varanda não trancam	06/09/2019, 16:13:54	06/09/2019, 16:13:54		0,00	5,01	15	Fechado	6
+66	46	2	Banheira entupida	06/10/2019, 16:13:54	06/10/2019, 16:13:54		0,00	5,01	15	Fechado	6
+47	58	3	Ligar pavimento radiante	06/10/2019, 16:13:60	06/10/2019, 16:13:60		0,00	5,01	15	Fechado	4
+48	25	3	Suporte do armortecedor do armario de cozinha partido	06/11/2019, 16:13:61	06/11/2019, 16:13:61	Suporte	1,50	5,01	15	Fechado	4
+49	28	1	Afinar portas do armario de cozinha	06/11/2019, 16:13:54	06/11/2019, 16:13:54		0,00	6,68	20	Fechado	6
+50	74	2	Afinar portas do armario de cozinha	06/11/2019, 16:13:55	06/11/2019, 16:13:55		0,00	10,02	30	Fechado	5
+51	22	3	Fuga no lava-loiça	06/11/2019, 16:13:56	06/11/2019, 16:13:56		0,00	6,68	20	Fechado	6
+52	19	2	Tampas da sanitas soltas	06/12/2019, 16:13:61	06/12/2019, 16:13:62		0,00	10,02	30	Fechado	6
+53	20	2	Portas da varanda não trancam	06/12/2019, 16:13:61	06/12/2019, 16:13:62		0,00	5,01	15	Fechado	4
+54	12	1	Lavatorio entupido	06/12/2019, 16:13:61	06/12/2019, 16:13:62		0,00	10,02	30	Fechado	6
+55	11	1	Portas da varanda não trancam	06/12/2019, 16:13:61	06/12/2019, 16:13:62		0,00	5,01	15	Fechado	4
+56	4	3	Fuga no lava-loiça	06/12/2019, 16:13:61	06/12/2019, 16:13:62		0,00	10,02	30	Fechado	5
